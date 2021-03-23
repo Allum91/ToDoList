@@ -1,0 +1,21 @@
+body{
+  background: #383e56;
+  color: #eedad1;
+}
+.container{
+  max-width: 400px;
+}
+input[type=text],
+input[type=text]:focus{
+  color: black;
+  border: none;
+  background: #eedad1;
+  max-width: 400px;
+}
+.todos li{
+  background: #f69e7b;
+  color: #383e56;
+}
+.delete{
+  cursor: pointer;
+}
